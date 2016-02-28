@@ -1,0 +1,60 @@
+_repo: A-Tale-of-a-Tub_4737
+contributor:
+  creator:
+    editor:
+      agent_name: Morley, Henry
+      birthdate: 1822
+      deathdate: 1894
+      gutenberg_agent_id: '1355'
+      url: http://www.gutenberg.org/2009/agents/1355
+      wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+creator:
+  author:
+    agent_name: Swift, Jonathan
+    alias: Swift, J. (Jonathan)
+    birthdate: 1667
+    deathdate: 1745
+    gutenberg_agent_id: '326'
+    url: http://www.gutenberg.org/2009/agents/326
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
+description: "A Tale of a Tub was the first major work written by Jonathan Swift,\
+  \ arguably his most difficult satire and perhaps his most masterly. The Tale is\
+  \ a prose parody divided into sections of \"digression\" and a \"tale\" of three\
+  \ brothers, each representing one of the main branches of western Christianity.\
+  \ Composed between 1694 and 1697, it was eventually published in 1704. It was long\
+  \ regarded as a satire on religion, and has famously been attacked for that, starting\
+  \ with William Wotton.\nThe \"tale\" presents a consistent satire of religious excess,\
+  \ while the digressions are a series of parodies of contemporary writing in literature,\
+  \ politics, theology, Biblical exegesis, and medicine. The overarching parody is\
+  \ of enthusiasm, pride, and credulity. At the time it was written, politics and\
+  \ religion were still closely linked in England, and the religious and political\
+  \ aspects of the satire can often hardly be separated. \"The work made Swift notorious,\
+  \ and was widely misunderstood, especially by Queen Anne herself who mistook its\
+  \ purpose for profanity.\" \"It effectively disbarred its author from proper preferment\
+  \ within the church,\" but is considered one of Swift's best allegories, even by\
+  \ himself. It was enormously popular, but Swift believed it damaged his prospect\
+  \ of advancement in the Church of England.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4737'
+  wikidata: Q2353123
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire, English'
+- !lcc 'PR'
+title: A Tale of a Tub
+url: http://www.gutenberg.org/ebooks/4737
+wikipedia:
+- https://nl.wikipedia.org/wiki/A_Tale_of_a_Tub
+- https://ja.wikipedia.org/wiki/%E6%A1%B6%E7%89%A9%E8%AA%9E
+- https://fa.wikipedia.org/wiki/%D9%82%D8%B5%D9%87_%D9%84%D8%A7%D9%88%DA%A9
+- https://es.wikipedia.org/wiki/Cuento_de_una_barrica
+- https://en.wikipedia.org/wiki/A_Tale_of_a_Tub
+- https://it.wikipedia.org/wiki/Favola_della_botte
